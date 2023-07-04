@@ -14,6 +14,10 @@ The admin portal is the one wherein the head of the department will be able to v
 
 ![image](https://github.com/anvita-kumar30/StudentPerformanceTracker2.0/assets/109106936/d630c5f0-f054-41b9-a98a-86da75281985)
 
+![image](https://github.com/anvita-kumar30/StudentPerformanceTracker2.0/assets/109106936/688756a9-9464-471b-8f55-369ae9321201)
+
+![image](https://github.com/anvita-kumar30/StudentPerformanceTracker2.0/assets/109106936/59c0b410-a71c-4052-8a19-9031653600e2)
+
 TEACHER PORTAL-
 The teacher portal is the one wherein the teacher can edit the marks and attendance of the students. The teacher will first have to register or login in order to edit the result and attendance of the students.
 ![image](https://github.com/anvita-kumar30/StudentPerformanceTracker2.0/assets/109106936/4ad4f025-e593-4d15-9292-4dbcc372f5eb)
