@@ -30,5 +30,10 @@
 	<button type="submit" onclick="location.href='teach_marks.php'" class="submit-btn bb2"><b>UPDATE MARKS</b></button>
 	</div>
 </div>
+			<?php
+            // This is a single-line comment
+  
+            # You can also make single-line comments like this
+            ?>
 </body>
 </html>

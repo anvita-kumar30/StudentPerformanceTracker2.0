@@ -40,6 +40,11 @@
             <button type="submit">Signin</button>
         </form>
     </div>
+            <?php
+            // This is a single-line comment
+  
+            # You can also make single-line comments like this
+            ?>
 </body>
 
 </html>

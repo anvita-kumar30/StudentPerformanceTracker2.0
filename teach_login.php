@@ -66,7 +66,11 @@
     z.style.left = "0px";
 }
 </script>
-
+            <?php
+            // This is a single-line comment
+  
+            # You can also make single-line comments like this
+            ?>
 
 </body>
 
