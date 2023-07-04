@@ -1,6 +1,6 @@
 # StudentPerformanceTracker2.0
 
-Student Performance Tracker 2.0 is a website built specially for the teachers to track the performance and attendance of the students.
+Student Performance Tracker 2.0 is a website built specially for the admin and the teachers to track the performance and attendance of the students. The students can only view their performance and attendance.
 
 HOME PAGE-
 ![image](https://github.com/anvita-kumar30/StudentPerformanceTracker2.0/assets/109106936/021d144b-c6fc-4fbf-a732-4d7c7a2b2acc)
